@@ -3,6 +3,18 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * @author Daniel Cuevas Pérez - Ing. del Software
+ * @version 1.0
+ */
+
+/*
+TEST CASES
+1. fibonacciWithNegativeNumberReturnsException
+2. fibonacciAsZeroReturnsZero
+3. fibonacciAsOneReturnsOne
+4. fibonacciAsNumberGreaterThanOne
+ */
 public class FibonacciTest {
     private Fibonacci fibonacci;
 

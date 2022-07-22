@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Cuevas Pérez - Ing. del Software
+ * @version 1.0
+ */
 public class Fibonacci {
     private int fibonacci;
     public int compute(int num){
